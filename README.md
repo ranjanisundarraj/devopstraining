@@ -3,3 +3,5 @@
 #devopstrainingweek1merge1
 #devopstrainingweek1merge2
 #devopstrainingweek1merge3
+#deopstrainingweek13waymerge1
+#deopstrainingweek13waymerge2
